@@ -494,8 +494,10 @@ class ConferencePDFDownloader:
 
         results = self.download_all_papers(all_papers, max_workers=max_workers)
 
-        # 保存详细结果
-        self.save_metadata(results['success'], "downloaded_papers.json")
+        # 保存详细结果，成功和已存在的合并保存
+        combined_success = results['success'] + results['exists']
+        self.save_metadata(combined_success, "downloaded_papers.json")
+        # self.save_metadata(results['success'], "downloaded_papers.json")
         self.save_metadata(results['failed'], "failed_papers.json")
 
         # 生成摘要报告

@@ -265,7 +265,7 @@ class CVPRPDFDownloader:
         except Exception as e:
             self.log(f"Failed to save metadata: {e}")
 
-    def run(self):
+    def run(self, event_types=None, max_workers=2):  # 默认并发数减少到2
         """运行下载器"""
         try:
             papers = self.fetch_paper_list()
