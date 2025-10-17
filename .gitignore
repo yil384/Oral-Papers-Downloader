@@ -1,0 +1,5 @@
+venv
+*.pdf
+*.json
+*_log.txt
+*_report.md

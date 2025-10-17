@@ -1,0 +1,85 @@
+title,url
+Give Me FP32 or Give Me Death? Challenges and Solutions for Reproducible Reasoning,https://neurips.cc/virtual/2025/oral/118170
+Deep Compositional Phase Diffusion for Long Motion Sequence Generation,https://neurips.cc/virtual/2025/oral/116419
+PRIMT: Preference-based Reinforcement Learning with Multimodal Feedback and Trajectory Synthesis from Foundation Models,https://neurips.cc/virtual/2025/oral/119904
+Advancing Expert Specialization for Better MoE,https://neurips.cc/virtual/2025/oral/116507
+A Clean Slate for Offline Reinforcement Learning,https://neurips.cc/virtual/2025/oral/119623
+Task-Optimized Convolutional Recurrent Networks Align with Tactile Processing in the Rodent Brain,https://neurips.cc/virtual/2025/oral/116232
+Adjoint Schrödinger Bridge Sampler,https://neurips.cc/virtual/2025/oral/115787
+Recurrent Reinforcement Learning with Surrogate Gradients for Spiking Neural Networks,https://neurips.cc/virtual/2025/oral/116055
+Rethinking Joint Maximum Mean Discrepancy for Visual Domain Adaptation,https://neurips.cc/virtual/2025/oral/117477
+On Linear Mode Connectivity of Mixture-of-Experts Architectures,https://neurips.cc/virtual/2025/oral/118036
+Exploring Diffusion Transformer Designs via Grafting,https://neurips.cc/virtual/2025/oral/119280
+PlayerOne: Egocentric World Simulator,https://neurips.cc/virtual/2025/oral/118938
+Agnostic Active Learning is Always Better Than Passive Learning,https://neurips.cc/virtual/2025/oral/117512
+Optimal Mistake Bounds for Transductive Online Learning,https://neurips.cc/virtual/2025/oral/119099
+Depth-Bounds for Neural Networks via the Braid Arrangement,https://neurips.cc/virtual/2025/oral/117519
+OpenHOI: Open-World Hand-Object Interaction Synthesis with Multimodal Large Language Model,https://neurips.cc/virtual/2025/oral/120304
+Learning Linear Attention in Polynomial Time,https://neurips.cc/virtual/2025/oral/118143
+Discovering Opinion Intervals from Conflicts in Signed Graphs,https://neurips.cc/virtual/2025/oral/115063
+FuXi-Ocean: A Global Ocean Forecasting System with Sub-Daily Resolution,https://neurips.cc/virtual/2025/oral/117604
+Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?,https://neurips.cc/virtual/2025/oral/119945
+Artificial Hivemind: The Open-Ended Homogeneity of Language Models (and Beyond),https://neurips.cc/virtual/2025/oral/121422
+MokA: Multimodal Low-Rank Adaptation for MLLMs,https://neurips.cc/virtual/2025/oral/116048
+HyperET: Efficient Training in Hyperbolic Space for Multi-modal Large Language Models,https://neurips.cc/virtual/2025/oral/118373
+A is for Absorption: Studying Feature Splitting and Absorption in Sparse Autoencoders,https://neurips.cc/virtual/2025/oral/118059
+OrthoLoC: UAV 6-DoF Localization and Calibration Using Orthographic Geodata,https://neurips.cc/virtual/2025/oral/121612
+GnnXemplar: Exemplars to Explanations - Natural Language Rules for Global GNN Interpretability,https://neurips.cc/virtual/2025/oral/116902
+ControlFusion: A Controllable Image Fusion Network with Language-Vision Degradation Prompts,https://neurips.cc/virtual/2025/oral/117276
+Learning (Approximately) Equivariant Networks via Constrained Optimization,https://neurips.cc/virtual/2025/oral/118376
+A multiscale analysis of mean-field transformers in the moderate interaction regime,https://neurips.cc/virtual/2025/oral/117616
+High-dimensional neuronal activity from low-dimensional latent dynamics: a solvable model,https://neurips.cc/virtual/2025/oral/117112
+High-Dimensional Calibration from Swap Regret,https://neurips.cc/virtual/2025/oral/117761
+KVzip: Query-Agnostic KV Cache Compression with Context Reconstruction,https://neurips.cc/virtual/2025/oral/118742
+Learning long range dependencies through time reversal symmetry breaking,https://neurips.cc/virtual/2025/oral/115363
+SAGE: A Unified Framework for Generalizable Object State Recognition with State-Action Graph Embedding,https://neurips.cc/virtual/2025/oral/116465
+Superposition Yields Robust Neural Scaling,https://neurips.cc/virtual/2025/oral/116347
+"Generalized Gradient Norm Clipping & Non-Euclidean $(L_0,L_1)$-Smoothness",https://neurips.cc/virtual/2025/oral/115789
+Interactive Cross-modal Learning for Text-3D Scene Retrieval,https://neurips.cc/virtual/2025/oral/116803
+From Condensation to Rank Collapse: A Two-Stage Analysis of Transformer Training Dynamics,https://neurips.cc/virtual/2025/oral/116706
+Pan-LUT: Efficient Pan-sharpening via Learnable Look-Up Tables,https://neurips.cc/virtual/2025/oral/118251
+Learning to Learn with Contrastive Meta-Objective,https://neurips.cc/virtual/2025/oral/115718
+Infinity*: Uniﬁed Spacetime AutoRegressive Modeling for Visual Generation,https://neurips.cc/virtual/2025/oral/118709
+TransferTraj: A Vehicle Trajectory Learning Model for Region and Task Transferability,https://neurips.cc/virtual/2025/oral/117509
+Rethinking Multimodal Learning from the Perspective of Mitigating Classification Ability Disproportion,https://neurips.cc/virtual/2025/oral/118167
+WebGen-Bench: Evaluating LLMs on Generating Interactive and Functional Websites from Scratch,https://neurips.cc/virtual/2025/oral/121452
+1000 Layer Networks for Self-Supervised RL: Scaling Depth Can Enable New Goal-Reaching Capabilities,https://neurips.cc/virtual/2025/oral/115732
+In Search of Adam’s Secret Sauce,https://neurips.cc/virtual/2025/oral/119298
+Analog In-memory Training on General Non-ideal Resistive Elements: The Impact of Response Functions,https://neurips.cc/virtual/2025/oral/117576
+PhySense: Sensor Placement Optimization for Accurate Physics Sensing,https://neurips.cc/virtual/2025/oral/115066
+BEDLAM2.0: Synthetic humans and cameras in motion,https://neurips.cc/virtual/2025/oral/121503
+Dynam3D: Dynamic Layered 3D Tokens Empower VLM for Vision-and-Language Navigation,https://neurips.cc/virtual/2025/oral/115716
+Breaking the Performance Ceiling in Complex Reinforcement Learning requires Inference Strategies,https://neurips.cc/virtual/2025/oral/117976
+Representation Entanglement for Generation: Training Diffusion Transformers Is Much Easier Than You Think,https://neurips.cc/virtual/2025/oral/116345
+Auto-Compressing Networks,https://neurips.cc/virtual/2025/oral/116934
+Does Stochastic Gradient really succeed for bandits?,https://neurips.cc/virtual/2025/oral/116754
+NOVA: A Benchmark for Anomaly Localization and Clinical Reasoning in Brain MRI,https://neurips.cc/virtual/2025/oral/121771
+Envisioning Beyond the Pixels: Benchmarking Reasoning-Informed Visual Editing,https://neurips.cc/virtual/2025/oral/121634
+Why Diffusion Models Don’t Memorize:  The Role of Implicit Dynamical Regularization in Training,https://neurips.cc/virtual/2025/oral/119373
+The emergence of sparse attention: impact of data distribution and benefits of repetition,https://neurips.cc/virtual/2025/oral/116475
+Large Language Diffusion Models,https://neurips.cc/virtual/2025/oral/118609
+"Gated Attention for Large Language Models: Non-linearity, Sparsity, and Attention-Sink-Free",https://neurips.cc/virtual/2025/oral/120217
+ElasticMM: Efficient Multimodal LLMs Serving with Elastic Multimodal Parallelism,https://neurips.cc/virtual/2025/oral/117338
+State Entropy Regularization for Robust Reinforcement Learning,https://neurips.cc/virtual/2025/oral/115740
+SAVVY: Spatial Awareness via Audio-Visual LLMs through Seeing and Hearing,https://neurips.cc/virtual/2025/oral/115002
+Perception Encoder: The best visual embeddings are not at the output of the network,https://neurips.cc/virtual/2025/oral/118806
+In Search of Lost Language Models Training Dynamics,https://neurips.cc/virtual/2025/oral/119409
+MaxSup: Overcoming Representation Collapse in Label Smoothing,https://neurips.cc/virtual/2025/oral/116897
+Dynamical Low-Rank Compression of Neural Networks with Robustness under Adversarial Attacks,https://neurips.cc/virtual/2025/oral/119732
+RAG4GFM: Bridging Knowledge Gaps in Graph Foundation Models through Graph Retrieval Augmented Generation,https://neurips.cc/virtual/2025/oral/115563
+Generalized Linear Mode Connectivity for Transformers,https://neurips.cc/virtual/2025/oral/118595
+Spectral Perturbation Bounds for Low-Rank Approximation with Applications to Privacy,https://neurips.cc/virtual/2025/oral/119076
+ImageNet-trained CNNs are not biased towards texture: Revisiting feature reliance through controlled suppression,https://neurips.cc/virtual/2025/oral/116595
+Class-wise Balancing Data Replay for Federated Class-Incremental Learning,https://neurips.cc/virtual/2025/oral/117265
+QoQ-Med: Building Multimodal Clinical Foundation Models with Domain-Aware GRPO Training,https://neurips.cc/virtual/2025/oral/117310
+A Snapshot of Influence: A Local Data Attribution Framework for Online Reinforcement Learning,https://neurips.cc/virtual/2025/oral/115686
+Mean Flows for One-step Generative Modeling,https://neurips.cc/virtual/2025/oral/115488
+On the Closed-Form of Flow Matching: Generalization Does Not Arise from Target Stochasticity,https://neurips.cc/virtual/2025/oral/116379
+Improved Regret Bounds for Gaussian Process Upper Confidence Bound in Bayesian Optimization,https://neurips.cc/virtual/2025/oral/116693
+Tighter CMI-Based Generalization Bounds via Projection and Quantization,https://neurips.cc/virtual/2025/oral/117680
+An Optimized Franz-Parisi Criterion and its Equivalence with SQ Lower Bounds,https://neurips.cc/virtual/2025/oral/117790
+Identifiability of Deep Polynomial Neural Networks,https://neurips.cc/virtual/2025/oral/118427
+Dynamical Decoupling of Generalization and Overfitting in Large Two-Layer Networks,https://neurips.cc/virtual/2025/oral/118768
+Memory Mosaics at scale,https://neurips.cc/virtual/2025/oral/118784
+Boosting Knowledge Utilization in Multimodal Large Language Models  via Adaptive Logits Fusion and Attention Reallocation,https://neurips.cc/virtual/2025/oral/115856
+CoralVQA: A Large-Scale Visual Question Answering Dataset for Coral Reef Image Understanding,https://neurips.cc/virtual/2025/oral/121509
