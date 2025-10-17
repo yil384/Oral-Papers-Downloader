@@ -296,15 +296,15 @@ class CVPRPDFDownloader:
 
 def main():
     parser = argparse.ArgumentParser(description="CVPR PDF Downloader")
-    parser.add_argument('--base_url', type=str, required=True, help='Base URL of the CVPR oral papers page')
-    parser.add_argument('--save_dir', type=str, default="cvpr_papers", help='Directory to save downloaded PDFs and metadata')
-    parser.add_argument('--no_selenium', action='store_true', help='Disable Selenium (use only requests)')
+    parser.add_argument('-y', type=int, default=2024, help="CVPR年份 (默认: 2024)")
     args = parser.parse_args()
 
+    base_url = f"https://papers.cool/venue/CVPR.{args.y}?group=Oral"
+    save_dir = f"cvpr_{args.y}_papers"
+
     downloader = CVPRPDFDownloader(
-        base_url=args.base_url, 
-        save_dir=args.save_dir,
-        use_selenium=not args.no_selenium
+        base_url=base_url,
+        save_dir=save_dir,
     )
     downloader.run()
 

@@ -1,4 +1,5 @@
 venv
+tmp
 *.pdf
 *.json
 *_log.txt
