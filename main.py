@@ -12,9 +12,8 @@ def pipeline():
     )
     cvpr_downloader.run(event_types=["oral"], max_workers=2)
     # 2. cvpr 2025
-    conf_downloader = ConferencePDFDownloader(
+    conf_downloader = CVPRPDFDownloader(
         base_url="https://papers.cool/venue/CVPR.2025?group=Oral",
-        year=2024,
         save_dir="cvpr_2025_papers"
     )
     conf_downloader.run(event_types=["oral"], max_workers=2)
